@@ -1,4 +1,4 @@
-## A Though-Provoking Article on Software Development 
+## A Thought-Provoking Article on Software Development 
 [They Mythical Man-Month by Fred Brooks](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
 This articles explores sights from the book "The Mythical Man-Month," written by Fred Brooks. This book highlights the complexities of software project management and discusses why adding more poeple to a late software project often makes it later-a concept know as **Brooks's Law**.
 
